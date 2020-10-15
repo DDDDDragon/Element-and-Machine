@@ -1,0 +1,10 @@
+displayName = Element and Machine 元素与机械
+author = DDDDDragon!
+version = 0.6
+homepage = https://steamcommunity.com/profiles/76561198847307459/
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
+
